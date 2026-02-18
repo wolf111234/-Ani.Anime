@@ -1,6 +1,6 @@
-# 🎬 AniWatch 3D - Смотри Аниме с Друзьями!
+# 🎬 AniWatch- Смотри Аниме с Друзьями!
 
-![AniWatch](https://img.shields.io/badge/AniWatch-3D-blueviolet?style=for-the-badge)
+![AniWatch](https://img.shields.io/badge/AniWatch-blueviolet?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript)
 ![Tailwind](https://img.shields.io/badge/Tailwind-3-38B2AC?style=for-the-badge&logo=tailwindcss)
