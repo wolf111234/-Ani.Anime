@@ -1,4 +1,4 @@
-# 🎬 AniWatch- Смотри Аниме с Друзьями!
+# 🎬 AniWatch-Ani.Anime Смотри Аниме с Друзьями!
 
 ![AniWatch](https://img.shields.io/badge/AniWatch-blueviolet?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)
@@ -39,43 +39,6 @@
 - Адаптивный дизайн
 - Оптимизировано для тач-экранов
 
-## 🚀 Деплой на GitHub Pages
-
-1. **Fork репозиторий** или создай новый
-
-2. **Загрузи код:**
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
-git push -u origin main
-```
-
-3. **Включи GitHub Pages:**
-   - Перейди в Settings → Pages
-   - Source: GitHub Actions
-   - Деплой запустится автоматически!
-
-4. **Готово!** Сайт будет доступен по адресу:
-   `https://YOUR_USERNAME.github.io/YOUR_REPO/`
-
-## 🛠 Локальная разработка
-
-```bash
-# Установка зависимостей
-npm install
-
-# Запуск dev сервера
-npm run dev
-
-# Сборка
-npm run build
-
-# Превью сборки
-npm run preview
-```
 
 ## ⌨️ Горячие Клавиши
 
